@@ -1,0 +1,7 @@
+{
+  "name": "Achraf & Sara",
+  "description": "A romantic web application for Achraf and Sara to connect, solve problems, share feelings, play games, and plan their future together.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
